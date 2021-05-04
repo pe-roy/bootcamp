@@ -1,0 +1,4 @@
+interno1.txt
+interno2.txt
+.DS_Store
+#Files not supposed to be uploaded or git controlled locally.
